@@ -1,0 +1,9 @@
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\bin\Debug\regexExtractorWin.exe
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\bin\Debug\regexExtractorWin.pdb
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\regexExtractorWin.Form1.resources
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\regexExtractorWin.Properties.Resources.resources
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\regexExtractorWin.exe
+C:\Users\dan\Desktop\regexExtractorWin\regexExtractorWin\obj\x86\Debug\regexExtractorWin.pdb
